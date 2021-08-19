@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GN-Systems-test/static/css/main.9f019ea2.chunk.css",
+    "main.js": "/GN-Systems-test/static/js/main.0e110512.chunk.js",
+    "main.js.map": "/GN-Systems-test/static/js/main.0e110512.chunk.js.map",
+    "runtime-main.js": "/GN-Systems-test/static/js/runtime-main.6c7c61ca.js",
+    "runtime-main.js.map": "/GN-Systems-test/static/js/runtime-main.6c7c61ca.js.map",
+    "static/js/2.13df216d.chunk.js": "/GN-Systems-test/static/js/2.13df216d.chunk.js",
+    "static/js/2.13df216d.chunk.js.map": "/GN-Systems-test/static/js/2.13df216d.chunk.js.map",
+    "index.html": "/GN-Systems-test/index.html",
+    "static/css/main.9f019ea2.chunk.css.map": "/GN-Systems-test/static/css/main.9f019ea2.chunk.css.map",
+    "static/js/2.13df216d.chunk.js.LICENSE.txt": "/GN-Systems-test/static/js/2.13df216d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c7c61ca.js",
+    "static/js/2.13df216d.chunk.js",
+    "static/css/main.9f019ea2.chunk.css",
+    "static/js/main.0e110512.chunk.js"
+  ]
+}
