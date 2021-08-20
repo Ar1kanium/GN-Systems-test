@@ -17,8 +17,9 @@ const choose = {
 }
 
 export const filterAndSort = (data, sortMethod, transferFilter, priceFilter) => {
+    console.log(priceFilter)
     return choose[sortMethod](data.filter(el => {
-        if ((priceFilter.from && el.price < priceFilter.from) || (priceFilter.to && el.price > priceFilter.to)) return false
+        if ((+priceFilter.from && +el.price < +priceFilter.from) || (+priceFilter.to && +el.price > +priceFilter.to)) return false
         if ((!transferFilter['1 пересадка'] && (el.back.transferQuantity === 1 || el.there.transferQuantity === 1)) ||
             (!transferFilter['без пересадок'] && (el.back.transferQuantity === 0 || el.there.transferQuantity === 0))) return false
         return true
