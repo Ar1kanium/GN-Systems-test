@@ -1,6 +1,7 @@
 # Тестовое задание для GridNine Systems.
 
 React, Tailwind css.
+https://ar1kanium.github.io/GN-Systems-test/
 
 ## Текст задания
 
